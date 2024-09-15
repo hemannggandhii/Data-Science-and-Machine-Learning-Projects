@@ -6,7 +6,7 @@ This project aims to create a hybrid model that predicts stock market prices usi
 
 ## Data Sources
 - **Historical Stock Prices**: SENSEX data is downloaded from [Yahoo Finance](https://finance.yahoo.com/).
-- **News Headlines**: News data is sourced from a large dataset available at [https://bit.ly/36fFPI], containing over 3 million Indian news headlines from 2001 to 2020.
+- **News Headlines**: News data is sourced from a large dataset available at https://bit.ly/36fFPI, containing over 3 million Indian news headlines from 2001 to 2020.
 
 ## Methodology
 1. **Data Collection**:
